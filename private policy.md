@@ -31,4 +31,4 @@
 No, we do not share data with any 3rd parties!
 
 4) **How can users get data removed, or how can users contact the bot owner?**
-They can contact me, `d0gskill#1243` with DM, or contact support on our server (https://discord.gg/WeCVHj9CTJ), or remove it with commands or given Google Spreadsheet 
+They can contact me, `@neverlosecc` with DM, or contact support on our server (https://discord.gg/WeCVHj9CTJ), or remove it with commands
