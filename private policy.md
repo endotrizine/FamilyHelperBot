@@ -8,6 +8,7 @@
 - Custom join application questions 
 - In-game cars names 
 - Game server names
+- Some data that users enter, such as blacklist reasons, vacation reasons, etc.
 
 2) **Why do we need the data, and why do we use this data?**
 
@@ -15,9 +16,9 @@
 
     b) Channel IDs' are stored for some of bot functions (action logs, car list updating, leaderboard updating, shop updating)
     
-    c) User IDs' and names are stored for operating such systems as internal ranking, vacation, fine, shop, applying, reporting 
+    c) User IDs' and names are stored for operating such systems as internal ranking, vacation, fine, shop, applying, reporting, etc. 
     
-    d) Role IDs' and names are stored for operating such systems as internal ranking, applying, vacation, fine (to determine who is to receive points, which roles to add or remove with applying system, vacation and fine systems).
+    d) Role IDs' and names are stored for operating such systems as internal ranking, applying, vacation, fine (to determine who is to receive points, which roles to add or remove with applying system, vacation, fine systems etc.).
     
     e) Message IDs' are stored for updating shop and car list, operating such systems as applying, orders, reports
 
