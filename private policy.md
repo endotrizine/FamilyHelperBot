@@ -1,35 +1,35 @@
-1) **What data does this bot store?**
+1) **Какие данные хранит этот бот?
 
-- Guild IDs
-- Channel IDs 
-- User IDs and names 
-- Role IDs and names
-- Message IDs
-- Custom join application questions 
-- In-game cars names 
-- Game server names
-- Some data that users enter, such as blacklist reasons, vacation reasons, etc.
+- Идентификаторы гильдий
+- Идентификаторы каналов 
+- Идентификаторы и имена пользователей 
+- Идентификаторы и имена ролей
+- Идентификаторы сообщений
+- Пользовательские вопросы для заявки на вступление 
+- Имена внутриигровых машин 
+- Имена игровых серверов
+- Некоторые данные, которые вводят пользователи, например, причины занесения в черный список, причины отпуска и т.д.
 
-2) **Why do we need the data, and why do we use this data?**
+2) **Для чего нам нужны эти данные и зачем мы их используем?
 
-    a) Guilds IDs' are stored for configuration settings (as data differs for different guilds, it is necessary to determine exact data to use)
+    a) Идентификаторы гильдий хранятся для настройки конфигурации (так как данные для разных гильдий отличаются, необходимо определить, какие именно данные использовать)
 
-    b) Channel IDs' are stored for some of bot functions (action logs, car list updating, leaderboard updating, shop updating)
+    b) Идентификаторы каналов хранятся для некоторых функций бота (журналы действий, обновление списка машин, обновление таблицы лидеров, обновление магазина)
     
-    c) User IDs' and names are stored for operating such systems as internal ranking, vacation, fine, shop, applying, reporting, etc. 
+    в) Идентификаторы и имена пользователей хранятся для работы таких систем, как внутренний рейтинг, отпуск, штрафы, магазин, заявки, отчеты и т.д. 
     
-    d) Role IDs' and names are stored for operating such systems as internal ranking, applying, vacation, fine (to determine who is to receive points, which roles to add or remove with applying system, vacation, fine systems etc.).
+    г) Идентификаторы и имена ролей хранятся для работы с такими системами, как внутренний рейтинг, отпуск, штраф (чтобы определить, кто будет получать очки, какие роли добавлять или удалять с помощью системы подачи заявок, отпуска, штрафов и т. д.).
     
-    e) Message IDs' are stored for updating shop and car list, operating such systems as applying, orders, reports
+    д) Идентификаторы сообщений хранятся для обновления списка магазинов и автомобилей, работы таких систем, как подача заявок, заказы, отчеты.
 
-    f) Custom application questions are stored for applying system operating
+    f) Пользовательские вопросы заявки хранятся для работы системы подачи заявок
 
-    g) In-game cars names are stored for car report system operating
+    g) Имена внутриигровых автомобилей хранятся для работы системы отчетов об автомобилях
 
-    h) Game server names are stored to determine, which users are to receive points with ranking system
+    h) Имена игровых серверов хранятся для определения, какие пользователи будут получать очки в системе рейтинга
 
-3) **Other than Discord, do we share your data with any 3rd parties?**
-No, we do not share data with any 3rd parties!
+3) **Помимо Discord, передаем ли мы ваши данные каким-либо третьим лицам?**
+Нет, мы не передаем данные третьим лицам!
 
-4) **How can users get data removed, or how can users contact the bot owner?**
-They can contact me, `@neverlosecc` with DM, or contact support on our server (https://discord.gg/WeCVHj9CTJ), or remove it with commands
+4) **Как пользователи могут удалить данные, или как пользователи могут связаться с владельцем бота?**
+Они могут связаться с разработчиком, `@neverlosecc`, или связаться со службой поддержки на нашем сервере (https://discord.gg/WeCVHj9CTJ), или удалить его с помощью представленного функционала
