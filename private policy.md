@@ -38,7 +38,7 @@
 
 english:
 
-1) **What data does this bot store?
+1) **What data does this bot store?**
 
     - Guild IDs
     - Channel IDs 
@@ -50,7 +50,7 @@ english:
     - Game server names
     - Some data that users enter, such as reasons for blacklisting, reasons for vacation, etc.
 
-2) **What do we need this data for and why do we use it?
+2) **What do we need this data for and why do we use it?**
 
     a) Guild IDs are stored for configuration settings (since the data is different for different guilds, you need to determine which data to use).
 
@@ -68,7 +68,7 @@ english:
 
     h) In-game server names are stored to determine which users will receive points in the ranking system
 
-3) **Besides Discord, do we share your data with any third parties?
+3) **Besides Discord, do we share your data with any third parties?**
 
     No, we do not share data with any third parties!
 
